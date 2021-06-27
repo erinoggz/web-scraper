@@ -1,0 +1,13 @@
+version: '2'
+services:
+    redis:
+        container_name: nest_task_redis
+        image: redis
+        ports:
+            - "6379"
+        networks:
+            - main_network
+
+networks:
+    main_network:
+        driver: bridge

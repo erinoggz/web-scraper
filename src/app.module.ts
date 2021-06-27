@@ -2,7 +2,6 @@ import { Module, CacheModule } from '@nestjs/common';
 import { WebpageModule } from './webpage/webpage.module';
 import { GraphQLModule } from '@nestjs/graphql';
 import { NestCrawlerModule } from 'nest-crawler';
-import { RedisModule} from 'nestjs-redis'
 import * as redisStore from 'cache-manager-redis-store';
 import { config } from 'config/config';
 

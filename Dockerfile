@@ -22,6 +22,6 @@ VOLUME ["/src", "/var/log/applications/nest_task"]
 
 # Expose web service and nodejs debug port
 EXPOSE  3000
-EXPOSE  3000
+EXPOSE  3001
 
 CMD ["node", "dist/main.js"]

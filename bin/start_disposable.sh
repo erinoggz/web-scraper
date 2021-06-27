@@ -50,7 +50,7 @@ docker run \
     -i \
     -t \
     -p 3000 \
-    -p 3000 \
+    -p 3001 \
     -v ${ROOT}:/src \
     --env-file=${ROOT}/.env \
     --network=nest_task_main_network \

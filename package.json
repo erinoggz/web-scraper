@@ -4,6 +4,10 @@
   "description": "",
   "author": "",
   "license": "MIT",
+  "engines": {
+    "node": "v14.16.1",
+    "npm": "6.14.12"
+  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",

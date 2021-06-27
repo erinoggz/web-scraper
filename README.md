@@ -75,7 +75,7 @@ query{
 ## Stay in touch with me
 - Author - [Erin Deji](https://quirky-swirles-bafcdd.netlify.app/)
 - Instagram - [https://www.instagram.com/ande_lifa/](https://www.instagram.com/ande_lifa/)
-- Twitter - [@nestframework](https://twitter.com/ande_oggz)
+- Twitter - [@ande_oggz](https://twitter.com/ande_oggz)
 
 ## Support
 

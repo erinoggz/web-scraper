@@ -73,7 +73,7 @@ query{
 ```
 
 ## Stay in touch with me
-- Author - [Erin Deji](erin.deji@gmail.com)
+- Author - [Erin Deji]
 - Instagram - [https://www.instagram.com/ande_lifa/](https://www.instagram.com/ande_lifa/)
 - Twitter - [@ande_oggz](https://twitter.com/ande_oggz)
 

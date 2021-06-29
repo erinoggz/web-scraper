@@ -54,7 +54,7 @@ $ docker ps
 ## Production (Heroku) app url
 
 ```bash
-
+https://node-task-crawler.herokuapp.com/graphql
 ```
 
 ## Testing the app on graphQL client
